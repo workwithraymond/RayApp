@@ -3,10 +3,17 @@
     --secondary-color: #ff993b;
     --dark-color: #292929;
     --white-color: #989c99;
-    
-    
-    
+        
 }
+
+ .odd{
+    font-weight: 100;
+ }
+
+ .even{
+    font-weight: bold;
+    font-size: large;
+ }
 
 body{
     color: var(--dark-color);
